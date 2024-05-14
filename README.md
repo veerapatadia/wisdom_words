@@ -10,6 +10,8 @@ But that's not all – our app also features a wealth of short yet impactful quo
 
 Download Wisdom Word now and let the power of words illuminate your life!"
 
+https://github.com/veerapatadia/wisdom_words/assets/150000048/6ecd4bb7-9ad3-4aeb-b242-332996e28bd7
+
 ![Screenshot_20240515_022611](https://github.com/veerapatadia/wisdom_words/assets/150000048/d40c1ee8-e7b3-4c94-8fda-ba8d16a5e370)
 ![Screenshot_20240515_022642](https://github.com/veerapatadia/wisdom_words/assets/150000048/cd5af03d-c4f2-483f-8785-eff1ced40dba)
 ![Screenshot_20240515_022708](https://github.com/veerapatadia/wisdom_words/assets/150000048/788d65bd-33a4-4937-ae27-03149b14a6cd)
